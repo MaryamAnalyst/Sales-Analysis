@@ -29,5 +29,7 @@ This **Power BI dashboard** analyzes sales performance, revenue trends, and cust
 📌 **Target high-value customer segments** (bachelor’s degree holders).  
 📌 **Analyze mid-2015 sales dip** to prevent future declines.
 🔗 [Click here to download the dashboard] https://drive.google.com/file/d/11DRVWeTTBFK4_lWYvw4uSevWqb1PJNBC/view?usp=drive_link
+
+
 ## 📧 contact: +2348149002107
 📩 Email: maryamabdulrasaq2002@gmail.com
