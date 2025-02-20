@@ -5,8 +5,7 @@ This **Power BI dashboard** analyzes sales performance, revenue trends, and cust
 
 ## 🛠️ Tools Used  
 - **Power BI** (Data Visualization)  
-- **Excel** (Data Cleaning)  
-- **SQL** (Data Extraction & Transformation)  
+- **power Query** (Data Cleaning)  
 
 ## 🔍 Key Insights  
 ✅ **Total Revenue:** $24.91M | **Total Profit:** $10.66M  
